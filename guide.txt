@@ -1,0 +1,9 @@
+main container
+header (nav bar)
+section 1 (home including partners)
+section 2 (How FarmVest works)
+section 3 (Your Pathway)
+section 4 (Why choose)
+section 5 (what customers say)
+section 6 (download app)
+Footer
